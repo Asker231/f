@@ -1,0 +1,24 @@
+.App{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 100px;
+    gap: 20px;
+}
+.shopIcon{
+    width: 80px;
+    height: 80px;
+    background-color: #fff;
+    border-radius: 50%;
+    border: 1px solid blueviolet;
+    font-size: 20px;
+    position: fixed;
+    right: 10px;
+    top: 10px;
+    cursor: pointer;
+    transition: .4s;
+}.shopIcon:hover{
+    background-color: rgb(31, 226, 132);
+}
