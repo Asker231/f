@@ -5,8 +5,9 @@
   background-color: rgb(236, 229, 221);
   padding: 20px;
   border-radius: 10px;
-  height: 455px;
+
 }
+
 .card > img {
   width: 200px;
   height: 200px;
